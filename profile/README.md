@@ -25,7 +25,7 @@ Front-end developer | Designer
 **Никита Кадун**  
 Front-end developer
 
-**Сергей Блохин**
+**Сергей Блохин**  
 Back-end developer
 
 **Юрий Иванов**  
