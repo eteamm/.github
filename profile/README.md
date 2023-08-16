@@ -32,4 +32,4 @@ Back-end developer
 Front-end developer | Designer
 
 ### Планы
-Сделать Android и iOS приложение к концу весеннего семестра 2023 года.
+Сделать Android и iOS приложение к концу осеннего семестра 2023 года.
