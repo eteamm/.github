@@ -16,20 +16,27 @@
 **Андрей Васильев**  
 Project-manager | Back-end developer
 
-**Максим Савошкин**  
-Front-end developer
+**Юрий Иванов**  
+Android developer | Designer
 
 **Маргарита Ненарокова**  
-Front-end developer | Designer
+Android developer | Designer
 
 **Никита Кадун**  
+Android developer
+
+**Александра Гончарова**  
+Front-end developer
+
+**Никита Шепель**  
+Front-end developer
+
+**Иван Самоваров**  
 Front-end developer
 
 **Сергей Блохин**  
 Back-end developer
 
-**Юрий Иванов**  
-Front-end developer | Designer
 
 ### Планы
 Сделать Android и iOS приложение к концу осеннего семестра 2023 года.
