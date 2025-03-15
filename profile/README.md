@@ -16,15 +16,14 @@
 **Андрей Васильев**  
 Project manager | Fullstack developer
 
-**Юрий Иванов**  
-iOS developer
+**Иван Самоваров**  
+Frontend developer | Backend developer
 
 **Маргарита Ненарокова**  
 Android developer
 
-**Иван Самоваров**  
-Frontend developer | Backend developer
-
+**Юрий Иванов**  
+iOS developer
 
 ### Планы
 Сделать Android и iOS приложение к концу осеннего семестра 2023 года.
